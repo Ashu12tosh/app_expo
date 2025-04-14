@@ -1,10 +1,9 @@
 import { Text, View } from "react-native";
 
-export default function explore() {
+export default function AccountInfo() {
   return (
     <View>
-      <Text>Explore Page</Text>
+      <Text>Account Info</Text>
     </View>
   );
 }
-//
